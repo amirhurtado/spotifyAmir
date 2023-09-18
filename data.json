@@ -1,0 +1,416 @@
+{
+  "playlists": [
+    {
+      "PlaylistsDeSpotify": [
+        {
+          "name": "This is The Beattles",
+          "img": "src/imgs/portada1.webp",
+          "description": "Los clásicos de The Beatles.",
+          "artist": "Artista 1",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "Pura Vida",
+          "img": "src/imgs/portada2.webp",
+          "description": "Audios musicales auténticos.",
+          "artist": "Artista 2",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "Motivación Mix",
+          "img": "src/imgs/portada3.webp",
+          "description": "Mezcla inspiradora para tu motivación.",
+          "artist": "Artista 3",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "Just Smile",
+          "img": "src/imgs/portada4.webp",
+          "description": "Porque hay que ser más feliz.",
+          "artist": "Artista 4",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "Villancicos",
+          "img": "src/imgs/portada5.webp",
+          "description": "Disfruta de la magia de la Navidad.",
+          "artist": "Artista 5",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "PlaylistsEnTendencia": [
+        {
+          "name": "Baila Reggaeton",
+          "img": "src/imgs/portada6.webp",
+          "description": "Disfrutar al ritmo del reggaetón.",
+          "artist": "Artista 1",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "Rap Caviar",
+          "img": "src/imgs/portada7.webp",
+          "description": "Éxitos del contemporáneo",
+          "artist": "Artista 2",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "K-Pop ON",
+          "img": "src/imgs/portada8.webp",
+          "description": "Éxitos del K-pop para tus oídos.",
+          "artist": "Artista 1",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "Radar de Novedades",
+          "img": "src/imgs/portada9.webp",
+          "description": "Lo último con el radar de novedades.",
+          "artist": "Artista 4",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "PlaylistSugerenciaParaHoy": [
+        {
+          "name": "Novedades Viernes",
+          "img": "src/imgs/portada10.webp",
+          "description": "Yandel y Mike Towers para tu viernes.",
+          "artist": "Artista 1",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "Country's Greatest Hits",
+          "img": "src/imgs/portada11.webp",
+          "description": "Country en lista de reproducción.",
+          "artist": "Artista 2",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "This Is The Queen",
+          "img": "src/imgs/portada12.webp",
+          "description": "Explora la esencia de Queen.",
+          "artist": "Artista 1",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "All A Acapella",
+          "img": "src/imgs/portada13.webp",
+          "description": "Exclusivamente a capella en esta lista.",
+          "artist": "Artista 4",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        },
+        {
+          "name": "Party Songs",
+          "img": "src/imgs/portada14.webp",
+          "description": "La mejor selección para animar la fiesta.",
+          "artist": "Artista 4",
+          "songs": [
+            {
+              "title": "Canción 1"
+            }
+          ]
+        }
+      ]
+    }  
+  ],
+  "TarjetasExplorarTodo": [
+    {
+        "titulo": "Podcasts",
+        "color": "#99FF99"
+    },
+    {
+        "titulo": "Listas",
+        "color": "#0000FF"
+    },
+    {
+        "titulo": "Descubrir",
+        "color": "#FFFF00"
+    },
+    {
+        "titulo": "Eventos en vivo",
+        "color": "#FF69B4"
+    },
+    {
+        "titulo": "Frequency",
+        "color": "#FFA500"
+    },
+    {
+        "titulo": "En casa",
+        "color": "#800080"
+    },
+    {
+        "titulo": "Salsa",
+        "color": "#00FF00"
+    },
+    {
+        "titulo": "Música más",
+        "color": "#00CED1"
+    },
+    {
+        "titulo": "Radar",
+        "color": "#FF4500"
+    },
+    {
+        "titulo": "Favoritos",
+        "color": "#FF1493"
+    },
+    {
+        "titulo": "Orgullo",
+        "color": "#FFD700"
+    },
+    {
+        "titulo": "Enfoque",
+        "color": "#32CD32"
+    },
+    {
+        "titulo": "Latina",
+        "color": "#FF6347"
+    },
+    {
+        "titulo": "Rock",
+        "color": "#00FFFF"
+    },
+    {
+        "titulo": "Cumbia",
+        "color": "#8A2BE2"
+    },
+    {
+        "titulo": "Fiesta",
+        "color": "#FF8C00"
+    },
+    {
+      "titulo": "Cine",
+      "color": "#FF4500"
+  },
+  {
+      "titulo": "Metal",
+      "color": "#FFA500"
+  },
+  {
+      "titulo": "Soul",
+      "color": "#8B0000"
+  },
+  {
+      "titulo": "Comedia",
+      "color": "#FF69B4"
+  },
+  {
+    "titulo": "Indie",
+      "color": "#FF1493"
+  },
+  {
+      "titulo": "Éxitos del momento",
+      "color": "#FFD700"
+  },
+  {
+      "titulo": "Clásicos de los 80",
+      "color": "#32CD32"
+  },
+  {
+      "titulo": "Rock alternativo",
+      "color": "#FF6347"
+  },
+  {
+      "titulo": "Rap en español",
+      "color": "#00FFFF"
+  },
+  {
+      "titulo": "Música electrónica",
+      "color": "#8A2BE2"
+  },
+  {
+      "titulo": "Jazz relajante",
+      "color": "#FF8C00"
+  },
+  {
+      "titulo": "Reggae vibes",
+      "color": "#4B0082"
+  },
+  {
+      "titulo": "Indie pop",
+      "color": "#FFA07A"
+  },
+  {
+      "titulo": "Pop",
+      "color": "#9370DB"
+  },
+  {
+      "titulo": "Country hits",
+      "color": "#228B22"
+  },
+  {
+      "titulo": "Metal pesado",
+      "color": "#B22222"
+  },
+  {
+      "titulo": "Música folklórica",
+      "color": "#D2691E"
+  },
+  {
+      "titulo": "Música clásica",
+      "color": "#800000"
+  },
+  {
+      "titulo": "Bandas sonoras",
+      "color": "#00FF7F"
+  },
+  {
+      "titulo": "R&B suave",
+      "color": "#9932CC"
+  },
+  {
+      "titulo": "Canciones para bailar",
+      "color": "#8B008B"
+  },
+  {
+      "titulo": "Música infantil",
+      "color": "#FFA500"
+  },
+  {
+      "titulo": "Canciones de amor",
+      "color": "#FF4500"
+  },
+  {
+      "titulo": "Éxitos de los 90",
+      "color": "#FF69B4"
+  },
+  {
+    "titulo": "Música para relajarse",
+    "color": "#20B2AA"
+  },
+  {
+    "titulo": "Hits del momento",
+    "color": "#FF6347"
+  },
+  {
+    "titulo": "Clásicos del jazz",
+    "color": "#FFD700"
+  },
+  {
+    "titulo": "Lo mejor del rock",
+    "color": "#00FF00"
+  },
+  {
+    "titulo": "Pop internacional",
+    "color": "#FF69B4"
+  },
+  {
+    "titulo": "Canciones de verano",
+    "color": "#FFA500"
+  },
+  {
+    "titulo": "Música indie",
+    "color": "#8A2BE2"
+  },
+  {
+    "titulo": "Éxitos latinos",
+    "color": "#FF8C00"
+  },
+  {
+    "titulo": "Electrónica dance",
+    "color": "#00CED1"
+  },
+  {
+    "titulo": "Música clásica",
+    "color": "#9932CC"
+  },
+  {
+    "titulo": "Favoritos de los 2000",
+    "color": "#00FFFF"
+  },
+  {
+    "titulo": "Hip-hop mundial",
+    "color": "#FF4500"
+  },
+  {
+    "titulo": "Música tropical",
+    "color": "#32CD32"
+  },
+  {
+    "titulo": "Éxitos del pop rock",
+    "color": "#800080"
+  },
+  {
+    "titulo": "Sesiones de DJ",
+    "color": "#FF1493"
+  },
+  {
+    "titulo": "Canciones de películas",
+    "color": "#FFA07A"
+  },
+  {
+    "titulo": "Música para entrenar",
+    "color": "#B22222"
+  },
+  {
+    "titulo": "Ritmos africanos",
+    "color": "#FFD700"
+  },
+  {
+    "titulo": "Folk ",
+    "color": "#8B008B"
+  },
+  {
+    "titulo": "Música de los 70",
+    "color": "#9370DB"
+  }
+]
+
+}
+
+
+  
