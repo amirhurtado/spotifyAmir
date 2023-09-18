@@ -27,7 +27,7 @@
         {
           "name": "Motivación Mix",
           "img": "src/imgs/portada3.webp",
-          "description": "Mezcla inspiradora para tu motivación.",
+          "description": "Mezcla para tu motivación.",
           "artist": "Artista 3",
           "songs": [
             {
@@ -49,7 +49,7 @@
         {
           "name": "Villancicos",
           "img": "src/imgs/portada5.webp",
-          "description": "Disfruta de la magia de la Navidad.",
+          "description": "La magia de la Navidad.",
           "artist": "Artista 5",
           "songs": [
             {
@@ -64,7 +64,7 @@
         {
           "name": "Baila Reggaeton",
           "img": "src/imgs/portada6.webp",
-          "description": "Disfrutar al ritmo del reggaetón.",
+          "description": "Al ritmo del reggaetón.",
           "artist": "Artista 1",
           "songs": [
             {
@@ -86,7 +86,7 @@
         {
           "name": "K-Pop ON",
           "img": "src/imgs/portada8.webp",
-          "description": "Éxitos del K-pop para tus oídos.",
+          "description": "Éxitos del K-pop en tus oídos.",
           "artist": "Artista 1",
           "songs": [
             {
@@ -97,7 +97,7 @@
         {
           "name": "Radar de Novedades",
           "img": "src/imgs/portada9.webp",
-          "description": "Lo último con el radar de novedades.",
+          "description": "Lo último, radar de novedades.",
           "artist": "Artista 4",
           "songs": [
             {
@@ -121,9 +121,9 @@
           ]
         },
         {
-          "name": "Country's Greatest Hits",
+          "name": "Country's Hits",
           "img": "src/imgs/portada11.webp",
-          "description": "Country en lista de reproducción.",
+          "description": "Disfruta Country.",
           "artist": "Artista 2",
           "songs": [
             {
@@ -134,7 +134,7 @@
         {
           "name": "This Is The Queen",
           "img": "src/imgs/portada12.webp",
-          "description": "Explora la esencia de Queen.",
+          "description": "La esencia de Queen.",
           "artist": "Artista 1",
           "songs": [
             {
@@ -145,7 +145,7 @@
         {
           "name": "All A Acapella",
           "img": "src/imgs/portada13.webp",
-          "description": "Exclusivamente a capella en esta lista.",
+          "description": "Exclusivamente a capella",
           "artist": "Artista 4",
           "songs": [
             {
@@ -156,7 +156,7 @@
         {
           "name": "Party Songs",
           "img": "src/imgs/portada14.webp",
-          "description": "La mejor selección para animar la fiesta.",
+          "description": "Para animar la fiesta.",
           "artist": "Artista 4",
           "songs": [
             {
